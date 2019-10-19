@@ -1,28 +1,34 @@
 # Computer Graphics and Multimedia programs------all programs at one place
 
-01) BRESENHAMS CIRCLE.CPP
+:-) BRESENHAMS CIRCLE.CPP
     program to draw a circle using bresenhams circle algo.
 
-02) BRESENHAMS LINE.CPP
+:-) BRESENHAMS LINE.CPP
     program to draw a line using bresenhams line algo.
 
-03) COHEN SUTHERLAND CLIPPING.CPP
+:-) COHEN SUTHERLAND CLIPPING.CPP
     program to check whether a line is a clipping candidate or not.
 
-04) DDA.CPP
+:-) DDA.CPP
     program to draw a line using dda (Digital Differential Analyzer) algo
 
-05) DRAWPOINT.CPP
+:-) DRAWPOINT.CPP
     program to draw a point.
 
-06) HORIZONTAL LINE.CPP
+:-) HORIZONTAL LINE.CPP
     program to draw a horizontal line.
 
-07) MID POINT CIRCLE.CPP
+:-) MID POINT CIRCLE.CPP
     program to draw a circle using mid point circle algo.
 
-08) SMILEY.CPP
+:-) SCALING OF TRIANGLE.CPP
+    program to scale a triangle.
+
+:-) SMILEY.CPP
     program to draw a smiley.
 
-09) VERTICAL LINE.CPP
+:-) TRANSLATION OF RECTANGLE.CPP
+    program to translate a rectangle.
+
+:-) VERTICAL LINE.CPP
     program to vertical line.
