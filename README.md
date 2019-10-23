@@ -1,5 +1,8 @@
 # Computer Graphics and Multimedia programs------all programs at one place
 
+:-) BEIZER CURVE.CPP
+    program to create a curve using beizer curve algo.
+
 :-) BRESENHAMS CIRCLE.CPP
     program to draw a circle using bresenhams circle algo.
 
@@ -21,8 +24,20 @@
 :-) MID POINT CIRCLE.CPP
     program to draw a circle using mid point circle algo.
 
+:-) OBLIQUE PROJECTION OF CUBE.CPP
+    program to project a cube using oblique projection concept.
+
+:-) REFLECTION OF TRIANGLE.CPP
+    program to create reflection of a triangle.
+
+:-) ROTATION OF TRIANGLE.CPP
+    program to rotate a triangle.
+
 :-) SCALING OF TRIANGLE.CPP
     program to scale a triangle.
+
+:-) SHEARING OF TRIANGLE.CPP
+    program to shear a triangle.
 
 :-) SMILEY.CPP
     program to draw a smiley.
